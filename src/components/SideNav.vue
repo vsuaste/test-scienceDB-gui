@@ -1,7 +1,16 @@
 <template>
   <div class="sidenav">
     <a href="/home"> HOME </a>
-  </div>
+        <a href='/books'> Books   </a>
+        <a href='/dogs'> Dogs   </a>
+        <a href='/people'> People   </a>
+        <a href='/projects'> Projects   </a>
+        <a href='/publishers'> Publishers   </a>
+        <a href='/researchers'> Researchers   </a>
+        <a href='/species'> Species   </a>
+        <a href='/individuals'> individuals   </a>
+        <a href='/transcript_counts'> transcript_counts   </a>
+      </div>
 </template>
 
 <script>
